@@ -25,17 +25,23 @@ I am a software engineer with an educational background in business administrati
 
   ### Technologies:
 * React
+* Next.js
 * React Native
 * JavaScript
 * TypeScript
+* Tailwind CSS
+* Vue.js
+* Supabase
 * Firebase
 * HTML5
 * CSS3
-* AWS
 * Python
 * Redux
+* Django
 * Flask
+* Node.js
 * Express.js
+* PostgreSQL
 * Sequelize
 
 - :mailbox:How to reach me:
